@@ -19,12 +19,12 @@ A practical and low-cost water flow monitoring system using the **YF-S201 Hall E
 
 | Component             | Quantity | Price (INR) |
 |----------------------|----------|-------------|
-| Arduino Uno          | 1        | ₹350        |
-| YF-S201 Flow Sensor  | 1        | ₹280        |
-| 16x2 LCD Display     | 1        | ₹230        |
+| Arduino Uno          | 1        | ₹450        |
+| YF-S201 Flow Sensor  | 1        | ₹180        |
+| 16x2 LCD Display     | 1        | ₹80        |
 | Potentiometer        | 1        | ₹20         |
 | Jumper Wires         | 1 set    | ₹40         |
-| Breadboard           | 1        | ₹150        |
+| Breadboard           | 1        | ₹80        |
 
 ---
 
