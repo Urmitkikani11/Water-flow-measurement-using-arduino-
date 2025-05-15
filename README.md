@@ -25,7 +25,7 @@ A cost-effective and accurate water flow monitoring system using the **YF-S201 H
 | YF-S201 Flow Sensor  | 1        | ₹180                 |
 | 16x2 LCD Display     | 1        | ₹80                  |
 | Potentiometer        | 1        | ₹20                  |
-| Jumper Wires         | 1 set    | ₹40                  |
+| Jumper Wires         | 1 Set    | ₹40                  |
 | Breadboard           | 1        | ₹80                  |
 
 ---
