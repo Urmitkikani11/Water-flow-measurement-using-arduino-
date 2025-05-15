@@ -2,7 +2,7 @@
 
 A cost-effective and accurate water flow monitoring system using the **YF-S201 Hall Effect sensor** and **Arduino Uno**. This project calculates the real-time **flow rate** and **total volume** of water, displaying the data on a **16x2 LCD screen**. Ideal for smart homes, precision irrigation, industrial automation, and environmental monitoring applications.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
