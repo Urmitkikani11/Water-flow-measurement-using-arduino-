@@ -104,8 +104,7 @@ If you'd like to improve this project, feel free to fork the repository, create 
 
 ## 📩 Contact
 
-For questions, suggestions, or collaboration:  
-📧 [Urmitkikani1184@gmail.com](mailto:Urmitkikani1184@gmail.com)
+For questions, suggestions, or collaboration:  [Urmitkikani1184@gmail.com](mailto:Urmitkikani1184@gmail.com)
 
 ---
 
